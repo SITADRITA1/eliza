@@ -4,7 +4,7 @@
 
 > **cleanJsonResponse**(`response`): `string`
 
-Cleans a JSON-like response string by removing unnecessary markers, line breaks, and extra whitespace.
+Cleans a JSON-like response string by removing unnecessary markers, line breaks, and extra whitespaces.
 This is useful for handling improperly formatted JSON responses from external sources.
 
 ## Parameters
